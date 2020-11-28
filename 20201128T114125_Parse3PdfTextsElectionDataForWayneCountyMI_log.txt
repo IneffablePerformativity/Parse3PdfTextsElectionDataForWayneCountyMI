@@ -1,0 +1,868 @@
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 1
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 2
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 3
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 4
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 5
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 6
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 7
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 8
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 9
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 10
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 11
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 12
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 13
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 14
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 15
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 16
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 17
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 18
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 19
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 20
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 21
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 22
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 23
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 24
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 25
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 26
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 27
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 28
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 29
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 30
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 31
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 32
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 33
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 34
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 35
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 36
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 37
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 38
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 39
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 40
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 41
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 42
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 43
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 44
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 45
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 46
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 47
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 48
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 49
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 50
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 51
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 52
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 53
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 54
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 55
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 56
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 57
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 58
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 59
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 60
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 61
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 62
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 63
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 64
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 65
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 66
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 67
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 68
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 69
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 70
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 71
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 72
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 73
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 74
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 75
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 76
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 77
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 78
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 79
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 80
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 81
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 82
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 83
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 84
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 85
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 86
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 87
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 88
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 89
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 90
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 91
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 92
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 93
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 94
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 95
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 96
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 97
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 98
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 99
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 100
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 101
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 102
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 103
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 104
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 105
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 106
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 107
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 108
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 109
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 110
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 111
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 112
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 113
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 114
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 115
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 116
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 117
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 118
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 119
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 120
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 121
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 122
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 123
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 124
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 125
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 126
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 127
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 128
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 129
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 130
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 131
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 132
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 133
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 134
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 135
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 136
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 137
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 138
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 139
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 140
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 141
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 142
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 143
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 144
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 145
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 146
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 147
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 148
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 149
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 150
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 151
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 152
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 153
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 154
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 155
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 156
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 157
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 158
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 159
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 160
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 161
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 162
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 163
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 164
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 165
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 166
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 167
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 168
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 169
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 170
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 171
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 172
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 173
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 174
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 175
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 176
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 177
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 178
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 179
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 180
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 181
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 182
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 183
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 184
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 185
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 186
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 187
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 188
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 189
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 190
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 191
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 192
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 193
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 194
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 195
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 196
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 197
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 198
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 199
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 200
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 201
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 202
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 203
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 204
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 205
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 206
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 207
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 208
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 209
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 210
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 211
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 212
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 213
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 214
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 215
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 216
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 217
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 218
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 219
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 220
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 221
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 222
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 223
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 224
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 225
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 226
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 227
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 228
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 229
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 230
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 231
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 232
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 233
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 234
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 235
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 236
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 237
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 238
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 239
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 240
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 241
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 242
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 243
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 244
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 245
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 246
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 247
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 248
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 249
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 250
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 251
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 252
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 253
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 254
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 255
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 256
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 257
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 258
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 259
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 260
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 261
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 262
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 263
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 264
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 265
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 266
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 267
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 268
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 269
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 270
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 271
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 272
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 273
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 274
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 275
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 276
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 277
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 278
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 279
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 280
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 281
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 282
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 283
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 284
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 285
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 286
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 287
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 288
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 289
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 290
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 291
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 292
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 293
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 294
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 295
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 296
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 297
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 298
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 299
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 300
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 301
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 302
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 303
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 304
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 305
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 306
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 307
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 308
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 309
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 310
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 311
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 312
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 313
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 314
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 315
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 316
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 317
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 318
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 319
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 320
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 321
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 322
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 323
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 324
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 325
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 326
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 327
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 328
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 329
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 330
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 331
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 332
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 333
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 334
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 335
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 336
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 337
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 338
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 339
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 340
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 341
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 342
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 343
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 344
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 345
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 346
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 347
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 348
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 349
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 350
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 351
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 352
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 353
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 354
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 355
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 356
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 357
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 358
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 359
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 360
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 361
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 362
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 363
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 364
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 365
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 366
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 367
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 368
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 369
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 370
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 371
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 372
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 373
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 374
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 375
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 376
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 377
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 378
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 379
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 380
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 381
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 382
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 383
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 384
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 385
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 386
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 387
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 388
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 389
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 390
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 391
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 392
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 393
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 394
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 395
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 396
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 397
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 398
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 399
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 400
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 401
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 402
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 403
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 404
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 405
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 406
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 407
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 408
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 409
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 410
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 411
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 412
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 413
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 414
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 415
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 416
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 417
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 418
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 419
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 420
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 421
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 422
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 423
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 424
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 425
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 426
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 427
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 428
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 429
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 430
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 431
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 432
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 433
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 434
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 435
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 436
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 437
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 438
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 439
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 440
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 441
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 442
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 443
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 444
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 445
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 446
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 447
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 448
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 449
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 450
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 451
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 452
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 453
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 454
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 455
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 456
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 457
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 458
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 459
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 460
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 461
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 462
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 463
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 464
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 465
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 466
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 467
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 468
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 469
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 470
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 471
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 472
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 473
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 474
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 475
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 476
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 477
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 478
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 479
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 480
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 481
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 482
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 483
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 484
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 485
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 486
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 487
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 488
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 489
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 490
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 491
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 492
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 493
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 494
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 495
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 496
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 497
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 498
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 499
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 500
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 501
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 502
+OMITTING where totalBallots == 0 in City of Detroit, Precinct 503
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Belleville, Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 13
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 14
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 16
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 18
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 20
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 27
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 28
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 29
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 30
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 31
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 32
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 34
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 35
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 36
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 37
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 38
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Canton,  Precinct 40
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 8
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 11
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 12
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 13
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 16
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 17
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 18
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 19
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 20
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 21
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 22
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 23
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 24
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 25
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 26
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 27
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 29
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 31
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 32
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 33
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 34
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 35
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 36
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 37
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 38
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 40
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 42
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 43
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 44
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 45
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 46
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn, Precinct 50
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 8
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 11
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 12
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 13
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 16
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 17
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 18
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 19
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Dearborn Heights,  Precinct 20
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Ecorse, Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Ecorse, Precinct 2
+OMITTING where totalBallots == 0 in City of Ecorse, Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Ecorse, Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Park,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Park,  Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Park,  Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Park,  Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Park,  Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Park,  Precinct 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Grosse Pointe Woods,  Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Hamtramck, Precinct  7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Harper Woods,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Harper Woods,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Harper Woods,  Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Harper Woods,  Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Harper Woods,  Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Harper Woods,  Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Highland Park,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Highland Park,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Highland Park,  Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Highland Park,  Precinct 4
+OMITTING where totalBallots == 0 in City of Highland Park,  Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Highland Park,  Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 1,  Precinct 1
+OMITTING where totalBallots == 0 in City of Inkster, District 1,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 2,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 2,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 3,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 3,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 4,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 4,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 5,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 6,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Inkster, District 6,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Lincoln Park, Precinct  2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Lincoln Park, Precinct  4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Melvindale, Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Melvindale, Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Melvindale, Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Melvindale, Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Melvindale, Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of  Northville, Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of  Northville, Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Plymouth, Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Plymouth, Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Plymouth, Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 3
+OMITTING where totalBallots == 0 in Charter Township of Redford,  Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 8
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 11
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 12
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 13
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 14
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 16
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 17
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 18
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 19
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Redford,  Precinct 20
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of River Rouge, Precinct  1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of River Rouge, Precinct  2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of River Rouge, Precinct  3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of River Rouge, Precinct  4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of River Rouge, Precinct  5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 8
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Romulus, Precinct 12
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Southgate, Precinct  11
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Taylor, Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Taylor, Precinct 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Taylor, Precinct 17
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Taylor, Precinct 19
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Taylor, Precinct 22
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Taylor, Precinct 23
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Van  Buren, Precinct 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Van  Buren, Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Van  Buren, Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Van  Buren, Precinct 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Van  Buren, Precinct 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in Charter Township of Van  Buren, Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Wayne, Ward 3,  Precinct 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Wayne, Ward 4,  Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 11
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 18
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 21
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 22
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 23
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 24
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 28
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 38
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 39
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 40
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Westland, Precinct 41
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 1
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 2
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 3
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 4
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 5
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 6
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 7
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 8
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 9
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 10
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 11
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 12
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 13
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 14
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 15
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 16
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 17
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 18
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 19
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 20
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 21
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 22
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 23
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 24
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 25
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 26
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 27
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 28
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 29
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 30
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 31
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 32
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 33
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 34
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 35
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 36
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 37
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 38
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 39
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 40
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 41
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 42
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 43
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 44
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 45
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 46
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 47
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 48
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 49
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 50
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 51
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 52
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 53
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 54
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 55
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 56
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 57
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 58
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 59
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 60
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 61
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 62
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 63
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 64
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 65
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 66
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 67
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 68
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 69
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 70
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 71
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 72
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 73
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 74
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 75
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 76
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 77
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 78
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 79
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 80
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 81
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 82
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 83
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 84
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 85
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 86
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 87
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 88
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 89
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 90
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 91
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 92
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 93
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 94
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 95
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 96
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 97
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 98
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 99
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 100
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 101
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 102
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 103
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 104
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 105
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 106
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 107
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 108
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 109
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 110
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 111
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 112
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 113
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 114
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 115
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 116
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 117
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 118
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 119
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 120
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 121
+OMITTING where ppmRepPotus < someMinimumRepublicanism in City of Detroit, AVCB 122
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 123
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 124
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 125
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 126
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 127
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 128
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 129
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 130
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 131
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 132
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 133
+OMITTING where totalBallots == 0 in City of Detroit, AVCB 134
+Across the 274 localities of WayneCountyMI, the BIDEN vote differs from other DEMOCRAT races as: mean = PLUS 0.97% of total votes in locality, with standard deviation = 1.61%.
+Across the 274 localities of WayneCountyMI, the TRUMP vote differs from other REPUBLICAN races as: mean = PLUS 0.97% of total votes in locality, with standard deviation = 2.57%.
+possibleConclusionText BIDEN BONUS = PLUS 0.97%, StdDev 1.61; TRUMP BONUS = PLUS 0.97%, StdDev 2.57
+MARKING AN X ON [CityofGrossePointePrecinct1] for shifting 153 votes.
+MARKING AN X ON [CityofGrossePointeFarmsPrecinct5] for shifting 125 votes.
+MARKING AN X ON [CityofGrossePointeParkPrecinct2] for shifting 135 votes.
+MARKING AN X ON [CityofPlymouthPrecinct4] for shifting 144 votes.
+MARKING AN X ON [CharterTownshipofCantonPrecinct8] for shifting 152 votes.
+MARKING AN X ON [CityofGrossePointeWoodsPrecinct5] for shifting 148 votes.
+MARKING AN X ON [CityofGrossePointeWoodsPrecinct3] for shifting 148 votes.
+MARKING AN X ON [CityofNorthvillePrecinct1] for shifting 210 votes.
+MARKING AN X ON [CityofGrossePointePrecinct2] for shifting 256 votes.
+MARKING AN X ON [CharterTownshipofNorthvillePrecinct3] for shifting 196 votes.
+MARKING AN X ON [CharterTownshipofNorthvillePrecinct1] for shifting 91 votes.
+MARKING AN X ON [CharterTownshipofNorthvillePrecinct12] for shifting 152 votes.
+MARKING AN X ON [CharterTownshipofNorthvillePrecinct6] for shifting 181 votes.
+MARKING AN X ON [CityofGrossePointeFarmsPrecinct2] for shifting 203 votes.
+MARKING AN X ON [CharterTownshipofPlymouthPrecinct7] for shifting 145 votes.
+MARKING AN X ON [CityofGrossePointeFarmsPrecinct4] for shifting 118 votes.
+MARKING AN X ON [CharterTownshipofPlymouthPrecinct11] for shifting 139 votes.
+MARKING AN X ON [CharterTownshipofNorthvillePrecinct4] for shifting 215 votes.
+MARKING AN X ON [CityofGrossePointeFarmsPrecinct1] for shifting 130 votes.
+MARKING AN X ON [VillageofGrossePointeShoresAMichiganCityPrecinct2] for shifting 71 votes.
+MARKING AN X ON [CityofGrossePointeFarmsPrecinct3] for shifting 197 votes.
+MARKING AN X ON [VillageofGrossePointeShoresAMichiganCityPrecinct1] for shifting 84 votes.
+finalConclusion = X MARKS 22 SPOTS OF THEFT WORTH 3393 VOTES, OR 1% OF ALL VOTES. SEE LOG.
+Note that all items omitted above affect the CSV as well as the PNG.
