@@ -7,7 +7,7 @@
  * 
  * 
  * "To the extent possible under law, Ineffable Performativity has waived all copyright and related or neighboring rights to
- * The C# program Georgia2020ElectionFraud.cs and resultant outputs.
+ * The C# program Parse3PdfTextsElectionDataForWayneCountyMI.cs and resultant outputs.
  * This work is published from: United States."
  * 
  * This work is offered as per license: http://creativecommons.org/publicdomain/zero/1.0/
