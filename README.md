@@ -1,6 +1,3 @@
-# Parse3PdfTextsElectionDataForWayneCountyMI
-I wrote a PDF-exported-TXT parser for Wayne County Michigan 2020 election data, bolted it to my plotter.
-
 /*
  * Parse3PdfTextsElectionDataForWayneCountyMI.cs
  *
@@ -23,11 +20,10 @@ I wrote a PDF-exported-TXT parser for Wayne County Michigan 2020 election data, 
  * github.com/IneffablePerformativity/ParseClarityElectionDataForStateOfColorado
  *
  * 
- * FWIW, The CISR Rumor Control page says undervote (here 'Bonus') is not a sign of fraud. YMMV.
- * 
- * Wikipedia:
- * - An undervote occurs when the number of choices selected by a voter in a contest is less than the maximum number allowed for that contest or when no selection is made for a single choice contest.
- * 
+ * But all 4 prior programs had an error, just fixed, soon to fix in those.
+ * To Wit, I did not make a "Four" thing upon each grain, but outside loop.
+ * Therefore, all the vote counts were merging into forever ascending sums.
+ * Corrected on 2020-11-26. Henceforth you can trust me, 'til next mistake.
  * 
  * also note, I manually compress final image at tinypng.com
  */
