@@ -18,12 +18,26 @@
  * github.com/IneffablePerformativity/ParseClarityElectionDataForOaklandCountyMI
  * github.com/IneffablePerformativity/ParseClarityElectionDataForStateOfGeorgia
  * github.com/IneffablePerformativity/ParseClarityElectionDataForStateOfColorado
- *
  * 
- * But all 4 prior programs had an error, just fixed, soon to fix in those.
+ * to demonstrate any inverse republicanism::trump relationship
+ * as was described for Milwaukee County Wisconsin in an article at:
+ * https://www.thegatewaypundit.com/2020/11/caught-part-3-impossible-ballot-ratio-found-milwaukee-results-change-wisconsin-election-30000-votes-switched-president-trump-biden/
+ * 
+ * 
+ * finalConclusion = THE BLACK X'S (SORTED TO THE RIGHT) MARK 48 BIGGEST SPOTS OF THEFT OVER 4% WORTH 5754 VOTES. SEE LOG FOR LOCALITY NAMES.
+ * 
+ * 
+ * There is a series of similar programs building upon one another,
+ * named similarly, with XML inputs, HTML inputs, PDF-as-TXT input,
+ * and some ugly earlier versions, all to be found at GitHub, here:
+ * https://github.com/IneffablePerformativity
+ * 
+ * 
+ * Pre- 2020-11-26 programs had an error, just fixed, soon to fix in those.
  * To Wit, I did not make a "Four" thing upon each grain, but outside loop.
  * Therefore, all the vote counts were merging into forever ascending sums.
  * Corrected on 2020-11-26. Henceforth you can trust me, 'til next mistake.
+ * 
  * 
  * also note, I manually compress final image at tinypng.com
  */
@@ -100,15 +114,19 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 		static bool omitEtcPotusFromTotalBallots = false;
 		
 		static int howOther = 2; // 1=average of Sen+Rep, 2=Sen, 3=Rep
+//		static int howOther = 3; // 1=average of Sen+Rep, 2=Sen, 3=Rep
+
 
 		// This should de-noise plot.
-		// using 100 here eliminates about 90 CSV rows, leaves about 1000 rows in Wayne.Co.
+		// using 100 here eliminates about 90 CSV rows, leaves about 1000 rows in Oakland.Co.
 		
-		static int someMinimumTotalBallots = 500;
+//		static int someMinimumTotalBallots = 500;
+		static int someMinimumTotalBallots = 200;
 		
 		// The LEFT of graph shows nothing interesting (sorted by Republicanism).
-		// This should chop it off so i need not stretch image so much.
-		static int someMinimumRepublicanism = 400000; // 40%
+		// This should chop some of left off so i need not stretch image so much.
+//		static int someMinimumRepublicanism = 400000; // 40%
+		static int someMinimumRepublicanism = 200000; // 20%
 		
 		// plot abscissa orderings are editted in code.
 		// By this principle, unless changed in code:
@@ -116,7 +134,7 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 		static string orderingPrinciple = "ascending Republicanism (red area)"; // edit code below to modify.
 
 		// well, why not have a choice up here?
-		static int howOrdering = 0; // 0 gives the default just stated, 1-7 change it.
+		static int howOrdering = 8; // 0 gives the default just stated, 1-7 change it.
 		
 		
 		// Grains are smallest locality, perhaps a Ward, county, precinct...
@@ -218,7 +236,7 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 		// Affects pen width choices!
 
 		// Stretch the plot X direction due to so many data:
-		const int stretchFactor = 4; // need 4 to see any details
+		const int stretchFactor = 2; // need 4 to see any details
 		
 		const int imageSizeX = stretchFactor * 1920 * 2;
 		const int imageSizeY = 1080 * 2;
@@ -241,8 +259,8 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 		
 		// N.B. At current 21 graticules, 200K = 4%
 		// but at 11 graticules, 200K = 2%
-		// Shooting for 3% now:
-		static int XMarksTheSpotThreshold = (do21gratsfspm10 ? 150000 : 30000);
+		static int XPct = 2;
+		static int XMarksTheSpotThreshold = XPct * (do21gratsfspm10 ? 50000 : 100000);
 
 		static int countTheXMarksTheSpot = 0;
 
@@ -628,90 +646,7 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 			}
 		}
 
-		
-		// Unused in this special PDF version
-		
-		/*...................................................................
-		 * 
-		static void inputDetailXmlFile()
-		{
-			XmlDocument doc = new XmlDocument();
-			doc.Load(Path.Combine(projectDirectoryPath,inputXmlFileName));
-
-			XmlNode root = doc.DocumentElement;
-			
-			// XML descent
-			
-			XmlNodeList xnlContests = root.SelectNodes("Contest");
-			foreach(XmlNode xnContest in xnlContests)
-			{
-				string contest = xnContest.Attributes["text"].Value;
-				
-				// Having just run through all to see the lay of it,
-				// Only process contest of interest to my statistic.
-				
-				switch(contest)
-				{
-					case "Straight Party Ticket":
-						if(discardStraightPartyVotes)
-							continue;
-						break; // Else, Process this category
-
-						// sum of POTUS votes == total ballots in Oakland County:
-					case "President/Vice-President (Vote for 1)":
-						// sum of US Senator votes == total ballots in Oakland County:
-					case "United States Senator (Vote for 1)":
-						// sum of these 4 REP races == total ballots in Oakland County:
-					case "Representative in Congress 14th District (Vote for 1)":
-					case "Representative in Congress 13th District (Vote for 1)":
-					case "Representative in Congress 12th District (Wayne County pcts only) (Vote for 1)":
-					case "Representative in Congress 11th District (Wayne County pcts only) (Vote for 1)":
-						break; // Process this category
-
-					default:
-						continue; // discard all others
-				}
-
-				XmlNodeList xnlChoices = xnContest.SelectNodes("Choice");
-				foreach(XmlNode xnChoice in xnlChoices)
-				{
-					string choice = xnChoice.Attributes["text"].Value;
-					string party = "";
-					try { party = xnChoice.Attributes["party"].Value; } catch(Exception) { };
-
-
-					// 1. Real votes
-					XmlNodeList xnlGrains = xnChoice.SelectNodes("VoteType/" + GrainTag);
-					foreach(XmlNode xnGrain in xnlGrains)
-					{
-						string grain = xnGrain.Attributes["name"].Value;
-						string votes = xnGrain.Attributes["votes"].Value;
-						
-						ponderInput(contest, choice, party, grain, votes);
-					}
-				}
-
-				// Having seen it, now not needed
-				//
-				//{
-				//	// 2. Residual votes
-				//	// <VoteType name="Undervotes"...
-				//	XmlNodeList xnlGrains = xnContest.SelectNodes("VoteType[@name='Overvotes' or @name='Undervotes']/" + GrainTag);
-				//	foreach(XmlNode xnGrain in xnlGrains)
-				//	{
-				//		string grain = xnGrain.Attributes["name"].Value;
-				//		string votes = xnGrain.Attributes["votes"].Value;
-				//
-				//		ponderInput(contest, "Residual", "", grain, votes);
-				//	}
-				//}
-			}
-			// Wow. That was way easier.
-		}
-
-...................................................................*/
-
-		
+	
 		static void ponderInput(string contest, string choice, string party, string grain, string votes)
 		{
 			// say(contest + "::" + choice + "::" + party + "::" + grain + "::" + votes);
@@ -845,6 +780,8 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 		static List<string> csvLines = new List<string>();
 
 		
+		// This straight (but biased) line is NOT the right clue:
+		//
 		// My God! Thank You, My God!
 		// The Excel plot reveals a VERY STRAIGHT LINE
 		// revealing the algorithm favoring Joe Biden.
@@ -855,7 +792,11 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 		//
 		// (But MilwaukeeCountyWI had a sloping line.)
 		// But output these as a signed percentage:
+		//
+		// Now rather, having fixed my 'four' mistake,
+		// I expect to see Bonuses for Biden jump out!
 
+		
 		// These hold the counts for mean, std dev:
 		
 		static List<int> BidenBonuses = new List<int>();
@@ -1091,6 +1032,14 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 									orderingPrinciple = "ascending totalBallots";
 								}
 								break;
+							case 8:
+								{
+									// this naive math goes negative, sorts wrong:
+									// ppmOrdering = bonusToBiden - bonusToTrump;
+									ppmOrdering = bonusToBiden - bonusToTrump + 500000;
+									orderingPrinciple = "ascending (BonusToBiden (green) minus BonusToTrump (orange))";
+								}
+								break;
 						}
 
 						// that's the data, create the CSV line
@@ -1227,6 +1176,7 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 			Pen GreenBidenBonusLinePen = new Pen(Color.Green, bonusLineWidth);
 			Pen orangeTrumpBonusLinePen = new Pen(Color.Orange, bonusLineWidth);
 
+			Pen blackXPen = new Pen(Color.Black, 3); // at 1920* 2
 			Pen blackGraticulePen = new Pen(Color.Black, 6); // at 1920* 2
 			Pen blackFatCenterLinePen = new Pen(Color.Black, 16); // at 1920* 2
 
@@ -1425,8 +1375,8 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 						// give me a vertical to emphasize the two bonuses.
 						// Actually, draw an X to mark the spot:
 						// Fat pen is pretty to hold up, but covers the detail
-						gBmp.DrawLine(blackGraticulePen, midBarX1, bidenBonusY, midBarX2, trumpBonusY); // pen, x1, y1, x2, y2
-						gBmp.DrawLine(blackGraticulePen, midBarX2, bidenBonusY, midBarX1, trumpBonusY); // pen, x1, y1, x2, y2
+						gBmp.DrawLine(blackXPen, midBarX1, bidenBonusY, midBarX2, trumpBonusY); // pen, x1, y1, x2, y2
+						gBmp.DrawLine(blackXPen, midBarX2, bidenBonusY, midBarX1, trumpBonusY); // pen, x1, y1, x2, y2
 						
 						// mention where it happened
 						say("MARKING AN X ON [" + fields[10] + "] for shifting " + netShiftOfVotes + " votes.");
@@ -1472,7 +1422,7 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 				// MAKING THE CONCLUSION MORE SPECTACULAR, AND RED!
 				// 25 would be top row, but lands on PA Bucks Biden Bonus
 
-				finalConclusion = "X MARKS " + countTheXMarksTheSpot + " SPOTS OF THEFT WORTH " + effectOnVotes + " VOTES, OR 1% OF ALL VOTES. SEE LOG.";
+				finalConclusion = "THE BLACK X'S (SORTED TO THE RIGHT) MARK " + countTheXMarksTheSpot + " BIGGEST SPOTS OF THEFT OVER " + (2*XPct) + "% WORTH " + effectOnVotes + " VOTES. SEE LOG FOR LOCALITY NAMES.";
 				say("finalConclusion = " + finalConclusion);
 				int YQEDLabel = nBorder + 225 * plotSizeY / 1000 - conclusionFont.Height / 2;
 				string QEDLabel = finalConclusion;
