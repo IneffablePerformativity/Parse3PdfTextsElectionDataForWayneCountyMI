@@ -1364,11 +1364,17 @@ namespace Parse3PdfTextsElectionDataForWayneCountyMI
 						int ppmBonusToTrump = (int)((int.Parse(fields[7]) - 500000) / (double)scaleFactor);
 						int ppmBonusToBiden = (int)((int.Parse(fields[8]) - 500000) / (double)scaleFactor);
 						// still in scope: int grainBallots = int.Parse(fields[9]);
-						int netShiftOfVotes = (ppmBonusToBiden-ppmBonusToTrump) * grainBallots / 1000000;
 						
 						// No it was not that, the numbers ARE really small.
 						// Summing the 275 rows in Excel gives only 362,558 total votes
 						// So 3393 votes is almost 1%.
+
+						// Very Curious Negative, in Colorado, must study:
+						// MARKING AN X ON [ElPaso] for shifting -1733 votes.
+						// Hand running ballots=378234, BidenBonus=770135, TrumpBonus=395620,
+						// I get a product here of 12,538,078,866, about 6 times the int.MaxValue.
+
+						int netShiftOfVotes = (int)((long)(ppmBonusToBiden-ppmBonusToTrump) * (long)grainBallots / 1000000L);
 
 						effectOnVotes += netShiftOfVotes;
 						
